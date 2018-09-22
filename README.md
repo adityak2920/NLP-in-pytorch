@@ -17,3 +17,5 @@ In this repo i have included some of Natural Language Processing(NLP) algorithms
   https://colah.github.io/posts/2015-08-Understanding-LSTMs/
   
   ![screen shot 2018-09-23 at 2 26 32 am](https://user-images.githubusercontent.com/35501699/45921709-526eb300-bed8-11e8-80ac-142f3d1aab88.png)
+  
+  Note: The LSTM code is fully functional i have basically given an outline of code so i will update in few days
